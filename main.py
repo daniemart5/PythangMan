@@ -16,4 +16,6 @@ print()
 
 count = 0
 
-while count 
+while count < len(answer):
+    guess = input("please guess  a  letter: ")
+    guess = guess.lower()
