@@ -29,10 +29,10 @@
 #note to self keep eye on indents in python
 
 #METHODS
-course = 'Bob is awesome'
-print(len(course))
-print(course.upper())
-print(course.lower())
-print(course.find('e'))
-print(course.replace('Bob', 'Danie'))
+# course = 'Bob is awesome'
+# print(len(course))
+# print(course.upper())
+# print(course.lower())
+# print(course.find('e'))
+# print(course.replace('Bob', 'Danie'))
 
