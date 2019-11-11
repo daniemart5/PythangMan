@@ -6,7 +6,14 @@ random.shuffle(answerlist)
 # picks out the word and separates the letters
 answer = list(answerlist[0])
 
-print(answer)
-
 display = []
 display.extend(answer)
+
+for i in range (len(display)):
+    display=[i] = '-'
+print(' '.join(display))
+print()
+
+count = 0
+
+while count 
